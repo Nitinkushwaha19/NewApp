@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TNN",
+            "title": "IPL 2023 Playoffs Race: CSK and LSG have a 97% chance of finishing in the top 4 - Times of India",
+            "description": "Cricket News: With 6 matches left to play in the league stage of IPL 2023, there remain 64 possible combinations of results. TOI looks at each of these possibilitie",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2023-playoffs-race-csk-and-lsg-have-a-97-chance-of-finishing-in-the-top-4/articleshow/100318482.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-100318543,width-1070,height-580,imgsize-142862,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-05-18T04:11:00Z",
+            "content": "Most sixes by a batter in a single edition of the IPL"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cricket.one"
+            },
+            "author": "Datrim",
+            "title": "Suryakumar Yadav Talks About Innovative Shot That Mesmerised Sachin Tendulkar - OneCricket",
+            "description": "Sachin lauds SKY for his brilliant shot over third man region.",
+            "url": "https://cricket.one/news/news-details/646497904737919e2427f088/suryakumar-yadav-talks-about-innovative-shot-that-mesmerised-sachin-tendulkar",
+            "urlToImage": "https://ik.imagekit.io/c7syb8qpjp/oc/oc-dashboard/news-images-prod/1684312605444_AP23132572048543.jpg",
+            "publishedAt": "2023-05-17T09:00:00Z",
+            "content": "Surya smashed his maiden IPL century this season (AP Photo)\r\nDuring the fixture against Gujarat Giants (GT), Suryakumar Yadav was in explosive form as he registered his maiden IPL ton to power his si… [+1560 chars]"
+        }
+    ]
+}
